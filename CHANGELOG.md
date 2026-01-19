@@ -1,3 +1,5 @@
+## [0.0.7] - [19-01-2026]
+- bumped up dependencies
 ## [0.0.6] - [20-04-2024]
 - bumped up dependencies
 ## [0.0.5] - [29-08-2023]
